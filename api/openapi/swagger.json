@@ -1,0 +1,28 @@
+{
+	"openapi": "3.0.0",
+	"components": {
+		"examples": {},
+		"headers": {},
+		"parameters": {},
+		"requestBodies": {},
+		"responses": {},
+		"schemas": {},
+		"securitySchemes": {}
+	},
+	"info": {
+		"title": "cimdb-api",
+		"version": "1.0.0",
+		"license": {
+			"name": "MIT"
+		},
+		"contact": {
+			"name": "Jeniffer Laila"
+		}
+	},
+	"paths": {},
+	"servers": [
+		{
+			"url": "/"
+		}
+	]
+}
